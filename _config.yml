@@ -84,3 +84,5 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+# theme - CBL
+remote_theme: pages-themes/brennanbrown/purelog@1.1.0
