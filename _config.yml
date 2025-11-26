@@ -86,6 +86,7 @@ exclude:
   - CNAME
 # theme - CBL
 #remote_theme: pages-themes/brennanbrown/purelog@1.1.0
+remote_theme: brennanbrown/purelog
 theme: purelog
 plugins:
   - jekyll-feed
