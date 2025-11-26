@@ -85,4 +85,10 @@ exclude:
   - README.md
   - CNAME
 # theme - CBL
-remote_theme: pages-themes/brennanbrown/purelog@1.1.0
+#remote_theme: pages-themes/brennanbrown/purelog@1.1.0
+theme: purelog
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-paginate-v2
+  - jekyll-sitemap
