@@ -93,7 +93,7 @@ plugins:
   - jekyll-paginate-v2
   - jekyll-sitemap
 #theme: jekyll-theme-minimal
-remote_theme: pages-themes/minimal@v0.2.0
+#remote_theme: pages-themes/minimal@v0.2.0
 #remote_theme: pages-themes/brennanbrown/purelog@1.1.0
 #remote_theme: brennanbrown/purelog@1.1.0
 #remote_theme: pages-themes/tactile@v0.2.0
