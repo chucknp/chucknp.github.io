@@ -89,7 +89,7 @@ exclude:
 plugins:
 #  - jekyll-feed
 #  - jekyll-seo-tag
-  - jekyll-paginate-v2
+#  - jekyll-paginate-v2
 #  - jekyll-sitemap
 theme: jekyll-theme-minimal
 #remote_theme: pages-themes/minimal@v0.2.0
