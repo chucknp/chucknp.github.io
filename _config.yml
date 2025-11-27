@@ -87,12 +87,11 @@ exclude:
 
 #theme: purelog
 plugins:
-  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-paginate-v2
   - jekyll-sitemap
-#theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal
 #remote_theme: pages-themes/minimal@v0.2.0
 #remote_theme: pages-themes/brennanbrown/purelog@1.1.0
 #remote_theme: brennanbrown/purelog@1.1.0
